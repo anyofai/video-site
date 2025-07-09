@@ -22,9 +22,9 @@
 
 ### 一、Netflix
 
-网址：https://www.netflix.com
-
 ![国外付费视频网站推荐：Netflix](https://raw.githubusercontent.com/anyofai/video-site/refs/heads/main/image/1-Netflix.png)
+
+网址：https://www.netflix.com
 
 Netflix是全球最大的流媒体平台，拥有超过两亿活跃用户。在这里，几乎可以找到所有你想看的热门美剧，从《纸牌屋》到《怪奇物语》，原创内容质量非常高。除了美剧，韩剧资源同样丰富，如《鱿鱼游戏》《王国》等爆款剧集都是Netflix独家制作。此外，其画质支持4K HDR，只要网速足够，观影体验非常出色。需要注意的是，国内用户需通过科学上网才能访问Netflix官网，订阅费用约为每月7.99美元起。
 
