@@ -1,6 +1,6 @@
 # <p align="center">2025年最新国外视频网站和免费电影网站推荐</p>
 
-<p align="center">最近更新于：2025年7月9日</p>
+<p align="center">最近更新于：2025年7月12日</p>
 
 ![最新国外视频网站和免费电影网站推荐](https://raw.githubusercontent.com/anyofai/video-site/refs/heads/main/image/%E5%9B%BD%E5%A4%96%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%92%8C%E5%85%8D%E8%B4%B9%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
