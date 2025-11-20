@@ -1,6 +1,6 @@
 # <p align="center">2025年最新国外视频网站和免费电影网站推荐</p>
 
-<p align="center">最近更新于：2025年11月14日</p>
+<p align="center">最近更新于：2025年11月20日</p>
 
 ![最新国外视频网站和免费电影网站推荐](https://raw.githubusercontent.com/anyofai/video-site/refs/heads/main/image/%E5%9B%BD%E5%A4%96%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%92%8C%E5%85%8D%E8%B4%B9%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
@@ -173,10 +173,10 @@ Twitch虽然主要以游戏直播闻名，但实际上这个平台的内容远�
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>：如何购买/合租/代充ChatGPT Plus会员？如何购买Codex拼车服务？
 * <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何购买Midjourney原生独立账号？如何代充Midjourney会员？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4、Gemini-2.5 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：Poe会员支持GPT-5.1、Claude 4.5 Sonnet、Grok-4.1、Gemini-3 Pro等大模型！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok账号？如何代充SuperGrok会员？
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
+* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5.1、DeepSeek-R1、Grok-4.1和Gemini-3 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
